@@ -1,0 +1,112 @@
+{
+  "book": [
+    {
+      "titolo": "La Divina Commedia",
+      "autore": "Dante Alighieri",
+      "isbn": "978-01-12345-98-1",
+      "prezzo": 17.5,
+      "trama": "Dante, a trent’anni circa, si ritrova in una selva oscura, ma in suo soccorso giunge il poeta Virgilio, che da qui in poi diventerà la sui guida lungo tutto il tragitto per i vari gironi dell’ inferno, sostituito successivamente da un’altra figura molto cara a Dante, l’amore della sua vita Beatrice.",
+      "id": 3,
+      "img": "/assets/imm/divina commedia.jpg"
+    },
+    {
+      "titolo": "Orgoglio e pregiudizio",
+      "autore": "Jane Austen",
+      "isbn": "978-31-54673-98-9 ",
+      "prezzo": 7.65,
+      "trama": "Non aveva mai capito di amarlo tanto come ora, quando l'amore era vano\". Jane Austen è una delle poche, autentiche grandi scrittrici che hanno saputo fare breccia nei cuori e nelle menti di tutti i lettori, senza eccezioni. Fra i suoi tanti capolavori, Orgoglio e pregiudizio (pubblicato nel 1813) è sicuramente il più popolare e amato: le cinque figlie dell'indimenticabile Mrs Bennet, tutte in cerca di un'adeguata sistemazione matrimoniale, offrono l'occasione per tracciare un quadro frizzante e profondo della vita nella campagna inglese di fine Settecento. I destini di Elizabeth, Jane, Mr Bingley e dell'ombroso Mr Darcy intrecciano un balletto irresistibile, una danza psicologica che getta luce sulla multiforme imprendibilità dell'animo umano, specie quando si trova alle prese con l'amore o qualcosa che all'amore somiglia.",
+      "id": 4,
+      "img": "/assets/imm/Orgoglio e pregiudizio.jpg"
+    },
+    {
+      "titolo": "Cime tempestose",
+      "autore": "Emily Bronte",
+      "isbn": "978-21-98628-02-1",
+      "prezzo": 6.73,
+      "trama": "Il romanzo di Emily Brontë narra la storia di Heathcliff, del suo amore per Catherine, e di come questa passione alla fine li distrugga entrambi: tema centrale del libro è difatti l'effetto distruttivo che il senso di gelosia e lo spirito di vendetta possono avere sugli individui. La storia è raccontata come una sorta di lungo racconto che Ellen Dean, o Nelly (la governante della famiglia) racconta al signor Lockwood, il nuovo affittuario di Thrushcross Grange; il finale è invece ambientato l'anno successivo alla partenza di Mr. Lockwood",
+      "id": 5,
+      "img": "/assets/imm/cime-tempestose.jpg"
+    },
+    {
+      "titolo": "Delitto e castigo",
+      "autore": "Fedor Dostoevskij",
+      "isbn": "978-45-84856-12-7",
+      "prezzo": 11.05,
+      "trama": "Lo svolgimento dei fatti è quasi tutto a Pietroburgo, nel corso di un'estate afosa. L'epilogo invece si svolge nella prigione-fortezza di una località non espressamente nominata, sulle rive del fiume Irtyš (fiume del bassopiano della Siberia occidentale). Dovrebbe trattarsi di Omsk, dove era presente una struttura per lavori forzati, conosciuta bene da Dostoevskij per avervi scontato egli stesso una condanna dal 1850 al 1854. Il romanzo ha il suo evento chiave in un duplice omicidio dettato dall'ostilità sociale: quello premeditato di un'avida vecchia usuraia e quello imprevisto della sua mite sorella più giovane, per sua sfortuna comparsa sulla scena del delitto appena compiuto. L'autore delle uccisioni è il protagonista del romanzo, uno studente pietroburghese indigente, chiamato Rodion Romanovič Raskol'nikov. Il romanzo narra la preparazione dell'omicidio, ma soprattutto gli effetti psicologici, mentali e fisici che ne seguono. Dopo essersi ammalato di febbre cerebrale ed essere stato costretto a letto per giorni, Raskòl'nikov viene sopraffatto da una cupa angoscia, frutto di rimorsi, pentimenti, tormenti intellettuali e soprattutto la tremenda condizione di solitudine in cui l'aveva gettato il segreto del delitto; presto subentra anche la paura di essere scoperto, che logora sempre di più i già provati nervi del giovane: per lui è troppo gravoso sostenere il peso dell'atto scellerato. Il delitto era stato compiuto: il castigo non era stata la Siberia, ma la desolazione emotiva e le peripezie che passò Raskol'nikov per arrivare infine, grazie a una povera giovane, Sonja, al pentimento della coscienza morale e alla confessione. Fondamentale è infatti l'inaspettato incontro con Sonja, un'anima pura e pervasa di una fede sincera e profonda, costretta però a prostituirsi per mantenere la matrigna tisica e i fratellastri. La giovane offre la speranza e la carità della fede in Dio alla solitudine del nichilismo di Raskòl'nikov. Questo incontro sarà determinante per indurre il protagonista a costituirsi e ad accettare la pena. Ma il vero riscatto avverrà per l'amore di Sonja, che lo seguirà anche in Siberia. Raskòl'nikov reputa di essere un \"superuomo\" e che avrebbe potuto commettere in modo giustificato un'azione spregevole - l'uccisione della vecchia usuraia - se ciò gli avesse portato la capacità di operare dell'altro bene, più grande, con quell'azione. In tutto il libro vi sono esempi di ciò: menziona Napoleone molte volte, pensando che, per tutto il sangue che versava, faceva del bene. Raskòl'nikov pensa di poter trascendere questo limite morale uccidendo l'usuraia, guadagnando i suoi soldi, ed usandoli per fare del bene. Sostiene che se Newton o Keplero avessero dovuto uccidere un uomo, o addirittura un centinaio di uomini, per illuminare l'umanità con le loro leggi e le loro idee, ne sarebbe valsa la pena. Il vero castigo di Raskòl'nikov non è il campo di lavoro a cui è condannato, ma il tormento che sopporta attraverso tutto il romanzo. Questo tormento si manifesta nella suddetta paranoia, come anche nella sua progressiva convinzione di non essere un \"superuomo\", poiché non ha saputo essere all'altezza di ciò che ha fatto. Oltre al destino di Raskòl'nikov, il romanzo, con la sua lunga e varia lista di personaggi, tratta di temi comprendenti la carità, la vita familiare, l'ateismo e l'attività rivoluzionaria, con la pesante critica che Dostoevskij muove contro la società russa coeva. Sebbene rifiutasse il socialismo, il romanzo sembra criticare anche il capitalismo che si stava facendo strada nella Russia di quel tempo.",
+      "id": 6,
+      "img": "/assets/imm/delittocastigo.jpg"
+    },
+    {
+      "titolo": "Se questo è un uomo",
+      "autore": "Primo Levi",
+      "isbn": "978-57911-988-14",
+      "prezzo": 9.3,
+      "trama": "Testimonianza sconvolgente sull'inferno dei Lager, libro della dignità e dell'abiezione dell'uomo di fronte allo sterminio di massa, \"Se questo è un uomo\" è un capolavoro letterario di una misura, di una compostezza già classiche. È un'analisi fondamentale della composizione e della storia del Lager, ovvero dell'umiliazione, dell'offesa, della degradazione dell'uomo, prima ancora della sua soppressione nello sterminio.  Primo Levi, reduce da Auschwitz, pubblicò \"Se questo è un uomo nel 1947\". Einaudi lo accolse nel 1958 nei \"Saggi\" e da allora viene continuamente ristampato ed è stato tradotto in tutto il mondo.",
+      "img": "/assets/imm/Se-questo-è-un-uomo.jpg",
+      "id": 7
+    },
+    {
+      "titolo": "Il nome della Rosa",
+      "autore": "Umberto Eco",
+      "isbn": "978-18-25444-12-4",
+      "prezzo": 15.3,
+      "trama": "Ultima settimana del novembre 1327. Il novizio Adso da Melk accompagna in un'abbazia dell'alta Italia frate Guglielmo da Baskerville, incaricato di una sottile e imprecisa missione diplomatica. Ex inquisitore, amico di Guglielmo di Occam e di Marsilio da Padova, frate Guglielmo si trova a dover dipanare una serie di misteriosi delitti (sette in sette giorni, perpetrati nel chiuso della cinta abbaziale) che insanguinano una biblioteca labirintica e inaccessibile. Per risolvere il caso, Guglielmo dovrà decifrare indizi di ogni genere, dal comportamento dei santi a quello degli eretici, dalle scritture negromantiche al linguaggio delle erbe, da manoscritti in lingue ignote alle mosse diplomatiche degli uomini di potere. La soluzione arriverà, forse troppo tardi, in termini di giorni, forse troppo presto, in termini di secoli.",
+      "img": "/assets/imm/nome-rosa.jpg",
+      "id": 8
+    },
+    {
+      "titolo": "Il ritratto di Dorian Gray",
+      "autore": "Oscar Wilde",
+      "isbn": "978-11-25675-85-4",
+      "trama": "Il romanzo è ambientato nella Londra vittoriana del XIX secolo, che all'epoca era pervasa da una mentalità tipicamente borghese. Narra di un giovane di bell'aspetto, Dorian Gray, che arriverà a fare della sua bellezza un rito insano. Egli incomincia a rendersi conto del privilegio del suo fascino quando Basil Hallward, un pittore suo amico, gli regala un ritratto da lui dipinto, che lo riproduce nel pieno della gioventù. Lord Henry Wotton avrà un ruolo decisivo nella vita di Dorian, che conosce proprio presso lo studio di Hallward. Lì, infatti, Wotton, con i suoi discorsi estremamente lunghi, influenza negativamente Dorian, che comincia a guardare la giovinezza come qualcosa di veramente importante, tanto da provare invidia verso il suo stesso ritratto, che sarà eternamente bello e giovane mentre lui invecchierà. Colpito dal panico, Dorian arriva a stipulare una sorta di \"patto col demonio\", grazie al quale rimarrà eternamente giovane e bello, mentre il quadro mostrerà i segni della decadenza fisica e della corruzione morale del personaggio. Dopo una tormentata storia d'amore con un'attrice di teatro di nome Sybil Vane, terminata col suicidio della ragazza dopo uno spettacolo in cui ha recitato male, Dorian, vedendo che la sua figura nel quadro invecchia e assume spaventose smorfie tutte le volte che egli commette un atto feroce e ingiusto, come se fosse la rappresentazione della sua coscienza, nasconde il quadro in soffitta e si dà a una vita all'insegna del piacere, sicuro che il quadro patirà le miserie della sorte al posto suo. Non rivelerà a nessuno l'esistenza del quadro, se non a Hallward, che poi ucciderà in preda alla follia fomentata dalle critiche del pittore, che ritiene causa dei suoi mali in quanto creatore dell'opera. Ogni tanto, però, si reca segretamente nella soffitta per controllare e schernire il suo ritratto che invecchia e si imbruttisce giorno dopo giorno, ma che gli crea anche tanti rimorsi e timori finché, stanco della sua malvagia vita , lacera il quadro con lo stesso coltello con cui aveva ucciso Hallward. Alla fine i servi trovano Dorian morto con un pugnale conficcato nel cuore, irriconoscibile e precocemente avvizzito, ai piedi del ritratto, ritornato meravigliosamente giovane e bello.",
+      "prezzo": 6.8,
+      "img": "/assets/imm/dorian-gray.jpg",
+      "id": 9
+    },
+    {
+      "titolo": "Il piccolo principe",
+      "autore": "Antoine De Saint Exupery",
+      "isbn": "978-31-12385-98-6",
+      "prezzo": 2.93,
+      "trama": "Il Piccolo Principe è la storia dell’incontro in mezzo al deserto tra un aviatore e un buffo ometto vestito da principe che è arrivato sulla Terra dallo spazio. Ma c’è molto di più di una semplice amicizia in questo libro surreale, filosofico e magico.  C’è la saggezza di chi guarda le cose con occhi puri, la voce dei sentimenti che parla la lingua universale, e una sincera e naturale voglia di autenticità.  Perché la bellezza, quando non è filtrata dai pregiudizi, riesce ad arrivare fino al cuore dei bambini, ma anche a quello degli adulti che hanno perso la capacità di ascoltare davvero. ",
+      "img": "/assets/imm/piccolo-principe.jpg",
+      "id": 10
+    },
+    {
+      "isbn": "978-22-15945-76-4",
+      "titolo": "Il buio oltre la siepe",
+      "autore": "Harper Lee",
+      "trama": "In una cittadina del \"profondo\" Sud degli Stati Uniti l'onesto avvocato Atticus Finch è incaricato della difesa d'ufficio di un \"negro\" accusato di violenza carnale; riuscirà a dimostrarne l'innocenza, ma l'uomo sarà ugualmente condannato a morte. La vicenda, che è solo l'episodio centrale del romanzo, è raccontata dalla piccola Scout, la figlia di Atticus, un Huckleberry in gonnella, che scandalizza le signore con un linguaggio non proprio ortodosso, testimone e protagonista di fatti che nella loro atrocità e violenza non riescono mai a essere più grandi di lei. Nel suo raccontare lieve e veloce, ironico e pietoso, rivive il mondo dell'infanzia che è un po' di tutti noi, con i suoi miti, le sue emozioni, le sue scoperte.",
+      "prezzo": 8,
+      "img": "/assets/imm/buio.jpg",
+      "id": 11
+    },
+    {
+      "titolo": "Alice nel paese delle meraviglie",
+      "trama": "Nato come libro per bambini, ma letto e riletto anche dagli adulti, \"Alice nel Paese delle Meraviglie\" è un romanzo geniale: una storia fantastica e sottilmente satirica, in cui il magistrale intrecciarsi di invenzioni linguistiche, ribaltamenti di senso, trucchi logici e situazioni assurde stimola a guardare la realtà da punti di vista inusuali. Nel Paese delle Meraviglie, insieme ad Alice e attraverso i suoi occhi, incontriamo il Coniglio Bianco, il Bruco, la Lepre Marzolina, il Cappellaio Matto, il sonnolento Ghiro, il Gatto del Cheshire, la Regina di Cuori e una miriade di altre creature, rappresentate in tutta la loro stranezza dai disegni di John Tenniel. Seguendo Alice nelle sue paradossali avventure in questo mondo onirico sotterraneo, metafora dell'assurdità della vita adulta, sentiremo certamente stuzzicare la nostra curiosità e la sfida del ragionamento logico, ma arriveremo infine alla conclusione liberatoria che non per forza bisogna cercare sempre un significato, soprattutto se un significato non c'è",
+      "prezzo": 8.5,
+      "autore": "Lewis Carroll",
+      "isbn": "978-31-72945-48-9",
+      "img": "/assets/imm/alice-paese-meraviglie.jpg",
+      "id": 12
+    },
+    {
+      "titolo": "Odissea",
+      "autore": "Omero",
+      "isbn": "978-41-53795-78-5",
+      "prezzo": 12.75,
+      "trama": "Durante il ritorno dalla guerra di Troia, un destino crudele prende a bersagliare Odisseo (Ulisse, per i latini) e i suoi compagni: la loro patria, l'isola di Itaca, pare allontanarsi per sempre, il viaggio sembra impossibile. Lucido e ostinato, pronto a tutto, Odisseo ricorda, previene e si oppone alla sorte, pur di approdare al porto natale e riprendere in pugno il proprio mondo. Ma quel mondo è cambiato, ed è cambiato anche lui",
+      "img": "/assets/imm/odissea.jpg",
+      "id": 13
+    },
+    {
+      "titolo": "test ",
+      "autore": "wdq",
+      "isbn": "243423",
+      "prezzo": 33,
+      "trama": "aaaa",
+      "img": "/assets/imm/sfondo.jpg",
+      "id": 16
+    }
+  ]
+}

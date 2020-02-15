@@ -1,0 +1,17 @@
+<app-nav [isHidden]="isHidden"></app-nav>
+
+<div class="card bg-dark text-white mb-3">
+  <div class="container">
+    <h2>{{book.titolo | uppercase}}</h2>
+    <p>
+      <img [src]="book.img" class="img-thumbnail" width="200">
+    </p> 
+    <p><b>Isbn:</b> {{book.isbn}}</p>
+    <p><b>Autore:</b> {{book.autore}}</p> 
+    <p><b>Prezzo:</b> € {{book.prezzo | number: '1.2'}}</p>
+    <p><b>Trama: </b> {{book.trama}}</p> 
+    <div style="margin-bottom: 10px">
+      <button class="btn btn-danger" (click)="goBack()">Go Back</button>
+    </div>
+  </div>
+</div>

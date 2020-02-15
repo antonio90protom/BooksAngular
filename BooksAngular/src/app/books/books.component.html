@@ -1,0 +1,13 @@
+<div class="card bg-dark text-white mb-3" >
+  <div *ngFor="let book of books | filter:filter:'titolo'; let i = index" class="list-group-item list-group-item-action" >
+    <i class="fa fa-book" style="width: 800px;" aria-hidden="true" routerLink="/edit/{{book.id}}"> {{book.titolo}} </i>     
+    <div class="pull-right">
+      <strong *ngIf="book.prezzo" [style.color]="book.prezzo > 10 ? 'red' : 'green'">
+        € {{book.prezzo | number: '1.2'}}
+      </strong>
+      <i class="fa fa-shopping-cart" aria-hidden="true" routerLink=""></i>
+      <i class="fa fa-info-circle" aria-hidden="true" routerLink="/info/{{book.id}}"></i>
+      <i class="fa fa-trash" aria-hidden="true" (click)="cancella(book, i)" ></i>
+    </div>
+  </div>
+</div>  

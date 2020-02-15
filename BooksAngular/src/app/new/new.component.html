@@ -1,0 +1,42 @@
+<app-nav [isHidden]="isHidden"></app-nav>
+
+
+<div class="card bg-dark text-white mb-3">
+  <form novalidate  #f="ngForm" class="card-body" autocomplete="off">
+    <div class="form-group">
+      <label for="titolo">* Titolo</label>
+      <input type="text" [(ngModel)]="book.titolo" name="titolo" class="form-control bg-dark text-white" placeholder="* Titolo" required>
+    </div>
+    <div class="form-group">
+      <label for="autore">* Autore</label>
+      <input type="text" [(ngModel)]="book.autore" name="autore" class="form-control bg-dark text-white" placeholder="* Autore" required>
+    </div>
+    <div class="form-group">
+      <label for="isbn">* Isbn</label>
+      <input type="text" [(ngModel)]="book.isbn" name="isbn" class="form-control bg-dark text-white" placeholder="* Isbn" required>
+    </div>
+    <div class="form-group">
+      <label for="prezzo">* Prezzo</label>
+      <input type="number" [(ngModel)]="book.prezzo" name="prezzo" class="form-control bg-dark text-white" placeholder="* prezzo" required>
+    </div>
+    <div class="form-group">
+      <label for="trama">* Trama</label>
+      <input type="text" [(ngModel)]="book.trama" name="trama" class="form-control bg-dark text-white" placeholder="* trama" required>
+    </div>
+    <div class="form-group">
+      <input type="file" class="form-control bg-dark text-white" id="immagine" (change)="readUrl($event)">
+      <img *ngIf="book.img" [src]="book.img" class="img-thumbnail" width="200">
+    </div>
+    <div class="btn-group btn-group-sm m-1">
+      <button class=" btn btn-warning" type="button" [disabled]="f.invalid" (click)="add(f)">
+       ADD
+      </button>
+      <button class="btn btn-light" type="reset">
+        RESET
+      </button>
+    </div>
+    <div class="pull-right">
+      <button class="btn btn-danger" type="button" (click)="goBack()"> Go Back</button>
+    </div>
+  </form>
+</div> 
